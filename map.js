@@ -1,5 +1,5 @@
-const numeros = [1,2,3,4,5]
-const valoresDobrados = numeros.map(num => num * 2)
+// const numeros = [1,2,3,4,5]
+// const valoresDobrados = numeros.map(num => num * 2)
 
 // console.log(valoresDobrados)
 // console.log(numeros)
