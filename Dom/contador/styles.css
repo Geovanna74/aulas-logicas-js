@@ -1,0 +1,14 @@
+.content{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    justify-content: center;
+}
+
+button{
+    border: none;
+    background: #596cfb;
+    color: #FFF;
+    padding: 5px 10px;
+    cursor: pointer;
+}
