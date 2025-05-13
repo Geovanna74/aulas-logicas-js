@@ -1,0 +1,8 @@
+@import url(components/reset.css);
+
+/* fontes*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Share+Tech&display=swap');
+@import url(components/fontes.css);
+@import url(components/header.css);
+@import url(components/main.css);
+@import url(components/footer.css);
